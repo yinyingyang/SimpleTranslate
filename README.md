@@ -40,4 +40,8 @@
 
 ## 许可证
 
+<<<<<<< HEAD
 MIT License
+=======
+MIT License
+>>>>>>> b19d8eb309a1e435c98d53c79fbd2ffc493da693

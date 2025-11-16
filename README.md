@@ -1,4 +1,4 @@
-# SimpleTranslateNode
+# SimpleTranslate
 
 ## 简介
 

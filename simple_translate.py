@@ -62,7 +62,7 @@ class SimpleTranslate:
         lines = selected_text.split('\n')
         processed_lines = []
         for line in lines:
-            if not line.strip().startswith('#'):
+            if not line.strip().startswith('#') and line!='':
                 processed_lines.append(line)
         
         # 根据开关决定是否翻译文本
